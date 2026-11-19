@@ -1,0 +1,17 @@
+# Interne planleggingsnotater - skal IKKE pushes til public repo
+booking.md
+plan.md
+info.md
+domenevalg.md
+rubic.md
+git.md
+
+# Vanlige ting som ikke bør med
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
